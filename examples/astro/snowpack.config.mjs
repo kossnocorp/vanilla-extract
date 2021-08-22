@@ -1,3 +1,3 @@
 export default {
-  plugins: ['@vanilla-extract/snowpack-plugin'],
+  plugins: ['@kossnocorp/vanilla-extract-snowpack-plugin'],
 };
